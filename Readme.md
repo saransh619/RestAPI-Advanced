@@ -1,0 +1,1 @@
+For connection to your express and mongodb: node productDB.js
